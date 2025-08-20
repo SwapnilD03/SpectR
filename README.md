@@ -26,7 +26,7 @@ Key features include:
 | 7       | LCD Display          | 7 inch                                 |
 | 8       | Voltage Regulator IC | Standard IC XXXX                       |
 
-![External View](image_1.jpg)
+![External View](image_1.png)
 
 ---
 
@@ -48,8 +48,8 @@ Key features include:
    - **CNN-based classifier** for impurity detection & quantification (multi-class).  
    - **TinyML (tflite) model** for on-device binary classification (Pure vs Adulterated).
 
-      ![External View](image_2.jpg)
-     ![External View](image_3.jpg)
+      ![External View](image_2.png)
+     ![External View](image_3.png)
      
 
 ---
