@@ -1,9 +1,9 @@
-# Impurity Detection in Edible Oils  
+# Transformer Oil Ageing Detection
 ### Using a Self-Powered, Portable, Low-Cost Spectrophotometer with Wireless Data Transfer
 
 ## 📌 Overview
-This project presents a **low-cost, portable spectrophotometer** designed to detect **impurities in edible oils** (e.g., palm oil mixed in mustard oil).  
-Unlike industrial methods like **Gas Chromatography (GC), FTIR, and HPLC**, this device offers a **cost-efficient, self-powered solution** with the ability to transfer captured spectral images wirelessly using **Firebase Cloud**.
+This project presents a **low-cost, portable spectrophotometer** designed to detect **transformer oil ageing** 
+This device offers a **cost-efficient, self-powered solution** with the ability to transfer captured spectral images wirelessly using **Firebase Cloud**.
 
 Key features include:
 - Portable and rechargeable device with **low-battery indicator**
@@ -26,7 +26,8 @@ Key features include:
 | 7       | LCD Display          | 7 inch                                 |
 | 8       | Voltage Regulator IC | Standard IC XXXX                       |
 
-   ![External View](SpectR/Image_1.png)
+  ![Alt Text](Image_1.png)
+
 
 ---
 
@@ -48,8 +49,8 @@ Key features include:
    - **CNN-based classifier** for impurity detection & quantification (multi-class).  
    - **TinyML (tflite) model** for on-device binary classification (Pure vs Adulterated).
 
-      ![External View](SpectR/Image_2.png)
-     ![External View](SpectR/Image_3.png)
+       ![Alt Text](Image_2.png)
+      ![Alt Text](Image_3.png)
      
 
 ---
