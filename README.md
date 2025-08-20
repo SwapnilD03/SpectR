@@ -24,7 +24,6 @@ Key features include:
 | 5       | CMOS Camera          | 640×480, 30 FPS, USB                   |
 | 6       | Processing Unit      | Raspberry Pi 3B                        |
 | 7       | LCD Display          | 7 inch                                 |
-| 8       | Voltage Regulator IC | Standard IC XXXX                       |
 
   ![Alt Text](Image_1.png)
 
